@@ -1,4 +1,4 @@
-# Mitigating Bird Strike : A Data Analysis Project USING TABLEAU
+# Mitigating Bird Strikes By Aircrafts : A Data Analysis Project USING TABLEAU
 
 ### Tables of Content
 - [Project Overview](#project-overview)
