@@ -10,10 +10,14 @@
 
 ## Project Overview
 This project analyzes Bird Strikes dataset with focus on key areas - Birds and Aircraft safety requirements, regulatory compliances required, 
-wildlife safety and injury prevention strategies, Aircraft Operations and Cost for Aircraft Industries and Timely Communication
+wildlife safety and injury prevention strategies, Aircraft Operations and Cost for Aircraft Industries and Timely Pilot Communication Documentations.
 
 
 ## Dashboards
+
+Tableau Dashboard Link - 
+1. [Safety, Regulatory and WildLife Dashboards](https://public.tableau.com/views/MIHIRMAY2024_C7_S4_MitigatingBirdStrikesinAviation-Part1/MAINSCREEN?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+2. [Operations, Communication and Cost Reduction Dashboards](https://public.tableau.com/views/MIHIRMAY2024_C7_S5_MitigatingBirdStrikesinAviation-Part2/MAINSCREEN?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Safety Assessment Dashboards](https://github.com/user-attachments/assets/04d972a1-4789-4f66-9994-ba00d981731e)
 
